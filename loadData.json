@@ -1,30 +1,30 @@
 [
   {
     "version": 1,
-    "userdata": [
+    "langdata": [
       {
-        "userId": 1,
-        "data": "Data 01"
+        "stringid": 1,
+        "data": "String 01"
       },
       {
-        "userId": 2,
-        "data": "Data 02"
+        "stringid": 2,
+        "data": "String 02"
       },
       {
-        "userId": 3,
-        "data": "Data 03"
+        "stringid": 3,
+        "data": "String 03"
       },
       {
-        "userId": 4,
-        "data": "Data 04"
+        "stringid": 4,
+        "data": "String 04"
       },
       {
-        "userId": 5,
-        "data": "Data 05"
+        "stringid": 5,
+        "data": "String 05"
       },
       {
-        "userId": 6,
-        "data": "Data 06"
+        "stringid": 6,
+        "data": "String 06"
       }
     ]
   }
