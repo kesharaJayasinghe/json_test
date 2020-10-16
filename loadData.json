@@ -1,31 +1,20 @@
 [
   {
-    "version": 1,
-    "langdata": [
-      {
-        "stringid": 1,
-        "data": "String 01"
-      },
-      {
-        "stringid": 2,
-        "data": "String 02"
-      },
-      {
-        "stringid": 3,
-        "data": "String 03"
-      },
-      {
-        "stringid": 4,
-        "data": "String 04"
-      },
-      {
-        "stringid": 5,
-        "data": "String 05"
-      },
-      {
-        "stringid": 6,
-        "data": "String 06"
-      }
-    ]
+    "data": "String 000001"
+  },
+  {
+    "data": "String 000002"
+  },
+  {
+    "data": "String 000003"
+  },
+  {
+    "data": "String 000004"
+  },
+  {
+    "data": "String 000005"
+  },
+  {
+    "data": "String 000006"
   }
 ]
